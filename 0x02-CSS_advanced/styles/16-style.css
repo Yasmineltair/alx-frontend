@@ -401,7 +401,8 @@ font-weight: var(--font-weight-bold);
 }
 .container {
     width: 960px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 :root {
 --color-primary: #d73953;
